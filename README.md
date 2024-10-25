@@ -3,6 +3,7 @@
 -🌱 Actualmente estoy cursando un bootcamp de Ciencia de datos
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 <!--
