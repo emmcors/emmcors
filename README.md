@@ -14,7 +14,7 @@ Científico de datos en formación con gusto por el desarrollo y el estudio de d
 
 
 ## Contacto
-💼LinkedIn: https://www.linkedin.com/in/emmanuel-cort%C3%A9s/  
+💼LinkedIn: https://www.linkedin.com/in/emmanuel-cortes-rosas/  
 📫Email: emmcors@hotmail.com
 
 <!--
