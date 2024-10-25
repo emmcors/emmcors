@@ -1,5 +1,10 @@
 ## Hola, mi nombre es Emmanuel Cortés 👋
 
+-🌱 Actualmente estoy cursando un bootcamp de Ciencia de datos
+
+
+
+
 <!--
 **emmcors/emmcors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--🌱 Actualmente estoy cursando un bootcamp de Ciencia de datos
