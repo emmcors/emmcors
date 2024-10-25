@@ -3,7 +3,7 @@
 ## Hola, mi nombre es Emmanuel Cortés 👋
 Científico de datos en formación con gusto por el desarrollo y el estudio de datos  
 -🌱 Actualmente estoy cursando un bootcamp de Ciencia de datos  
--🤍 Disfruto resolviendo problemas estádisticos y de probabilidad  
+-🖤 Disfruto resolviendo problemas estádisticos y de probabilidad  
 -📚 Estoy aprendiendo a utilizar diversos frameworks y librerías de Python para el análisis de datos.
 
 ### Lenguajes y herramientas 🧰
