@@ -2,7 +2,7 @@
 
 -🌱 Actualmente estoy cursando un bootcamp de Ciencia de datos
 
-
+### Lenguajes y herramientas
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,bash,linux,git)](https://skillicons.dev)
 
 
