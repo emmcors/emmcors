@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/53d31075-2f38-4f58-b9d4-f6829f1029ea)
 ## Hola, mi nombre es Emmanuel Cortés 👋
 Científico de datos en formación con gusto por el desarrollo y el estudio de datos  
 -🌱 Actualmente estoy cursando un bootcamp de Ciencia de datos  
