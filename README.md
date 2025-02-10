@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="700">
 
 ## Hola, mi nombre es Emmanuel Cortés 👋
-Científico de datos en formación con gusto por el desarrollo y el estudio de datos  
--🌱 Recientemente finalicé un bootcamp de Ciencia de datos  
--🖤 Disfruto resolviendo problemas estádisticos y de probabilidad  
--📚 Estoy aprendiendo a utilizar diversos frameworks y librerías de Python para el análisis de datos.
+Licenciado en ciencias de la computación y científico de datos con gusto por el desarrollo y el estudio de datos
+- 🌱 Concluí un bootcamp en Ciencia de datos
+- 🖤 Disfruto resolviendo problemas estadísticos y de probabilidad
+- 📚 Estoy aprendiendo a utilizar diversos frameworks y librerías de Python para el análisis de datos.
 
 ### Lenguajes y herramientas 🧰
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,bash,linux,git)](https://skillicons.dev)
